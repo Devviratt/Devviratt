@@ -71,7 +71,7 @@
 <br>
 <div>
   <img src="https://github-contributor-stats.vercel.app/api?username=Devviratt&limit=5&theme=shadow_green&combine_all_yearly_contributions=true" height="200px"/>
- <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" hight="50px">  
+ <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" hight="40px">  
 </div>
 
  <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/215283043-76c34df4-b495-46c3-b174-7aca38032b91.gif" height="15">  My Socials:</h3>
