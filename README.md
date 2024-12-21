@@ -1,4 +1,4 @@
-<img  src="https://user-images.githubusercontent.com/74038190/325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86.gif" width="1000">
+<img  src="https://private-user-images.githubusercontent.com/74038190/325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86.gif" width="1000">
 <h1 align="center"><b>Hello, I'M Dev Virat <img src="https://user-images.githubusercontent.com/74038190/238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9.gif" height="35px"></b></h1>
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/241763900-4503d891-510a-4ebd-94c4-ef8958a2e8d4.gif" height="20px"> About Me</h3>
 <p align="left"><b>I'm a creative front-end web developer from Bangalore<br><br>
