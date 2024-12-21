@@ -1,4 +1,4 @@
-<img  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" width="1000">
+<img  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" width="800">
 <h1 align="center"><b>Hello, I'M Dev Virat <img src="https://user-images.githubusercontent.com/74038190/238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9.gif" height="35px"></b></h1>
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/241763900-4503d891-510a-4ebd-94c4-ef8958a2e8d4.gif" height="20px"> About Me</h3>
 <p align="left"><b>I recently completed my Diploma in Computer Science and Engineering from BBSBPC and am now pursuing a BTech in CSE at Dayananda Sagar University. During my diploma and training at Infosys, I developed practical skills in HTML, CSS, PHP, and programming languages like C and C++. I’m dedicated to continuously improving these skills through projects and self-learning to stay at the cutting edge of web development.<br><br>
