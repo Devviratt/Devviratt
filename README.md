@@ -29,12 +29,12 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"  />
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"/>
 
 ###
 
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="40" alt="javascript logo"  />
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="40" alt="javascript logo"/>
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" height="40" alt="bootstrap logo"  />
   <img width="12" />
@@ -70,7 +70,7 @@
 <img src="https://raw.githubusercontent.com/Devviratt/Devviratt/output/snake.svg" alt="Snake animation" />
 <br>
 <div>
-  <img src="https://github-contributor-stats.vercel.app/api?username=Devviratt&limit=5&theme=shadow_green&combine_all_yearly_contributions=true" height="200px"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Devviratt&limit=5&theme=shadow_green&combine_all_yearly_contributions=true" height="100px"/>
  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" hight="40px">  
 </div>
 
