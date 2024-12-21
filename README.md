@@ -67,11 +67,15 @@
 ![](https://github-profile-trophy.vercel.app/?username=Devviratt&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
 <br clear="both">
 <h3> <img src="https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" height="20"> Snake & Contributins</h3>
+
+
+
+
 <img src="https://raw.githubusercontent.com/Devviratt/Devviratt/output/snake.svg" alt="Snake animation" />
 <br>
 <div>
   <img src="https://github-contributor-stats.vercel.app/api?username=Devviratt&limit=5&theme=shadow_green&combine_all_yearly_contributions=true" height="200px"/>
-  <img align="center" src="https://media.tenor.com/M3lexDdZRTEAAAAM/pixel-art.gif" height="200px" alt="Cover"/>  
+ <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">  
 </div>
 
  <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/215283043-76c34df4-b495-46c3-b174-7aca38032b91.gif" height="15">  My Socials:</h3>
@@ -95,6 +99,3 @@
 
 <img align="left" src="https://komarev.com/ghpvc/?username=Devviratt&style=for-the-badge&color=brightgreen" > 
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" height=27"><br><br>
-
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
