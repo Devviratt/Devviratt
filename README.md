@@ -10,6 +10,9 @@
 
 ###
 
+
+<img src="https://raw.githubusercontent.com/Devviratt/Devviratt/output/snake.svg" alt="Snake animation" />
+
 <div align="left">
   <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devviratt&hide_progress=true&theme=shadow_green" height="170vh" alt="languages graph"  />
