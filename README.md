@@ -8,7 +8,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/241763900-4503d891-510a-4ebd-94c4-ef8958a2e8d4.gif" height="35"/> About Me
+## 👨‍💻 About Me
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" height="160"/>
 
@@ -20,17 +20,17 @@ I continuously improve my skills through **projects and self-learning**.
 I also have a strong interest in **Digital Marketing, SEO, Advertising & Blogging**, where I apply SEO strategies to improve visibility and performance of websites and blogs.
 
 ### 🔹 Highlights
-- <img src="https://user-images.githubusercontent.com/74038190/236119650-f49991cf-21c3-46ef-a947-760ab27a10d0.gif" height="18"/> Interested in **Software Dev, Web Dev & Game Dev**
-- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="18"/> **BTech CSE Student** – Dayananda Sagar University
-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" height="18"/> Focused on **Academics & Gym**
-- <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" height="18"/> Fun Fact: *Life is a game & I play it daily*
-- <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" height="18"/> Portfolio: **https://devvirat.bio**
+- 🚀 Interested in **Software Dev, Web Dev & Game Dev**
+- 🎓 **BTech CSE Student** – Dayananda Sagar University
+- 🏋️ Focused on **Academics & Gym**
+- 🎮 Fun Fact: *Life is a game & I play it daily*
+- 🌐 Portfolio: **https://devvirat.bio**
 
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="20"/> My Stats
+## 📊 My Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devviratt&hide_progress=true&theme=shadow_green" height="170"/>
@@ -38,28 +38,29 @@ I also have a strong interest in **Digital Marketing, SEO, Advertising & Bloggin
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devviratt&theme=shadow_green&show_icons=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Devviratt&show_icons=true&theme=shadow_green&rank_icon=github" height="170"/>
 </p>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="20"/> Languages & Tools
+## 🛠 Languages & Tools
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="40"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" height="35"/>
-  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40"/>
 </p>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/226190908-cd4e0a61-801d-4b69-955b-5bd82eb7c10e.gif" height="20"/> GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Devviratt&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4"/>
@@ -83,13 +84,13 @@ I also have a strong interest in **Digital Marketing, SEO, Advertising & Bloggin
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dev-virat-8163a5286/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
   </a>
   <a href="https://www.instagram.com/dev_virat_" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40"/>
   </a>
   <a href="https://www.hackerrank.com/profile/devviratcse" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="40"/>
   </a>
 </p>
 
