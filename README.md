@@ -1,95 +1,118 @@
 <body>
-<h1 align="center"> ⬇️ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 ⬇️ </h1>
-<br>
+
+<h1 align="center">⬇️ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙎𝙝𝙖𝙙𝙤𝙬 𝙈𝙤𝙣𝙖𝙧𝙘𝙝 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 ⬇️</h1>
+
 <div align="center">
-<img src="./image/2.gif">
+  <img src="./image/solo-banner.gif" width="85%">
 </div>
-<br>
-<img src="./image/line1.gif" height ="80px" width ="100%">
-<div>
-<h2 align="center"> 💬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🗨️ </h2>
-<img src="./image/about-me.gif?raw=true" height = "220px" align="right">
-<li>
-<b>Name:</b> Huy</li>
-<li>
-<b>Gender:</b> Male, boy!
-</li>
-<li>
-<b>Hobby:</b> Tech stuff, animation, web development, solve algorithm puzzles to some degree (although I'm pretty bad at this), anime, games
-</li>
-<br>
-<p><b>     Thanks for reading about my personal stuff<br>
-                                 💯❤️‍🔥</b></p>
-</div>
-<div>
-<h2 align="left">            📇 𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚/ 𝙆𝙣𝙤𝙬𝙣 𝙖𝙗𝙤𝙪𝙩 📇</h2>
+
+<img src="./image/line1.gif" width="100%" height="80px">
+
+<!-- ================= ABOUT ================= -->
+<h2 align="center">💬 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 🗨️</h2>
+
+<img src="./image/about-me.gif" height="230px" align="right">
+
+<ul>
+  <li><b>Name:</b> Dev Virat</li>
+  <li><b>Role:</b> BTech CSE Student</li>
+  <li><b>Path:</b> Weakest → Shadow Monarch Mindset</li>
+  <li><b>Focus:</b> DSA, Web Dev, Core CS</li>
+  <li><b>Rule:</b> Discipline > Motivation</li>
+</ul>
+
+<p><b>Every commit is a level-up ⚔️</b></p>
+
+<img src="./image/line1.gif" width="100%" height="80px">
+
+<!-- ================= SKILLS ================= -->
+<h2 align="left">📇 𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚 / 𝙎𝙠𝙞𝙡𝙡𝙨 📇</h2>
+
+<img src="./image/knowledge.gif" width="420px" align="right">
+
 <p>
-<img src="./image/knowledge.gif?raw=true" width="420px" align="right">
-</div>
-<div>
-
-<p align="left"><img src="./image/css.svg"/> <img src="./image/html.svg"/> <img src="./image/javascript.svg"/> <img src="./image/React.svg"/> <img src="./image/jQuery.svg"/> <img src ="./image/React_Router.svg"/><br><br>
- <img src="./image/Node.svg"/> <img src="./image/Express.svg"/> <img src = "./image/MySQL.svg"/> <img src ="./image/MongoDB.svg"/><br><br>
-<img src ="./image/Heroku.svg"/> <img src="./image/OnRender.svg"/> <img src="./image/Vercel.svg"/><br>
-
-<br>
-<p align="left">I'm mostly work with <b><i>CSS, HTML, Javascript</i></b> and <b><i>ReactJS</i></b> at the <b>Front-end</b> and <b><i>Node.JS, Express</i></b> at the <b>Back-end</b> and deploy around <b><i>Heroku, Vercel, OnRender</i></b></p>
+<img src="./image/html.svg"/>
+<img src="./image/css.svg"/>
+<img src="./image/javascript.svg"/>
+<img src="./image/react.svg"/>
+<img src="./image/node.svg"/>
+<img src="./image/express.svg"/><br><br>
+<img src="./image/mysql.svg"/>
+<img src="./image/mongodb.svg"/>
+<img src="./image/git.svg"/>
+<img src="./image/github.svg"/><br><br>
+<img src="./image/vercel.svg"/>
+<img src="./image/render.svg"/>
 </p>
-<br>
-<h2 align="center">⌨️ 𝙒𝙤𝙧𝙠 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 🖱️</h2>
-<p align="center">
-<img align="center" src="./image/work_ex.gif"/>
-<br>
-<br>
-<br>
-I used take part as a <i><ins>Full-stack Web Developer Intern</ins></i> at <b><strong>SCC - Specialist Computer Centres</strong></b> in Internship Program from <i>HUTECH University</i></p>
-<br>
-<h2 align="right">📝 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 📝            </h2>
-<img src="./image/contact-me.gif" align="left" width="373.5px" height="208.5px"/>
-<br>
-<p align="center">Here are some of my  <br>
-most used social info ヽ(o＾▽＾o)ノ</p>
-<p align="center"><a href="https://www.facebook.com/giahuythai/" target="_blank"><img src="./image/Facebook.svg"/></a> <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=thaigiahuy230299@gmail.com" target="_blank"><img src="./image/Gmail.svg"/></a><br><br>📱: (+84) 97 122 5101</p>
-</div>
-<br>
-<div>
-<br>
-<img align="center" src = "./image/hxh.gif" width = "100%" height="350px">
-<div>
-    <h2 align ="center">⚔️ Stats 𝙇𝙀𝙑𝙀𝙇 𝙐𝙋! 🛡️</h2>
-    <img src ="./image/line2.gif" align ="right">
-    <br>
-    <img class="img" src ="https://github-readme-stats.vercel.app/api?username=huy232&theme=shades-of-purple&border_radius=20px&include_all_commits=true&count_private=true&show_icons=true" width = "50%" height ="200px" align ="left"/>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <img class="img" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=huy232&layout=compact&langs_count=8&border_radius=20px&theme=shades-of-purple" width ="50%" height ="200px" align ="left"/>
-</div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<div>
-<h2 align="center">💖 𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙬𝙖𝙡𝙠𝙞𝙣𝙜 𝙩𝙝𝙧𝙤𝙪𝙜𝙝 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚! 💖</h2>
-<div align="center">
-<img src="./image/the-end.gif" width = "100%">
-</div>
-<hr>
-</div>
 
-</div>
+<p>
+Frontend: <b>HTML • CSS • JavaScript • React</b><br>
+Backend: <b>Node.js • Express</b><br>
+Grinding <b>DSA + Core CS</b> for placements
+</p>
+
+<img src="./image/line1.gif" width="100%" height="80px">
+
+<!-- ================= EXPERIENCE ================= -->
+<h2 align="center">⌨️ 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 🖱️</h2>
+
+<p align="center">
+<img src="./image/work.gif" width="300px"><br><br>
+Worked on academic & personal projects.<br>
+Infosys industry training exposure.<br>
+Learning by building, not copying.
+</p>
+
+<img src="./image/line1.gif" width="100%" height="80px">
+
+<!-- ================= STATS ================= -->
+<h2 align="center">⚔️ 𝙎𝙩𝙖𝙩𝙨 — 𝙇𝙀𝙑𝙀𝙇 𝙐𝙋 🛡️</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Devviratt&theme=shades-of-purple&show_icons=true&count_private=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devviratt&layout=compact&theme=shades-of-purple" width="48%">
+</p>
+
+<!-- ================= ACHIEVEMENTS ================= -->
+<h2 align="center">🏆 𝘼𝙘𝙝𝙞𝙫𝙚𝙢𝙚𝙣𝙩𝙨</h2>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Devviratt&theme=darkhub&no-frame=true&row=1&column=7">
+</p>
+
+<!-- ================= SNAKE ================= -->
+<h2 align="center">🐍 𝙎𝙝𝙖𝙙𝙤𝙬 𝘼𝙧𝙢𝙮 (𝘾𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙞𝙤𝙣𝙨)</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Devviratt/Devviratt/output/snake.svg">
+</p>
+
+<p align="center"><i>Every square becomes my soldier.</i></p>
+
+<img src="./image/line1.gif" width="100%" height="80px">
+
+<!-- ================= CONTACT ================= -->
+<h2 align="right">📝 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙈𝙚 📝</h2>
+
+<img src="./image/contact.gif" align="left" width="360px">
+
+<p align="center">
+<a href="https://www.linkedin.com/in/dev-virat-8163a5286/">
+<img src="./image/linkedin.svg"/></a>
+<a href="https://www.instagram.com/dev_virat_/">
+<img src="./image/instagram.svg"/></a>
+<a href="https://devvirat.bio">
+<img src="./image/website.svg"/></a><br><br>
+📧 devvirat@gmail.com
+</p>
+
+<img src="./image/solo-ending.gif" width="100%" height="350px">
+
+<!-- ================= END ================= -->
+<h2 align="center">🖤 𝘼𝙍𝙄𝙎𝙀.</h2>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Devviratt&style=for-the-badge&color=7F1D1D">
+</p>
+
 </body>
