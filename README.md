@@ -36,7 +36,7 @@
 ## 🧠 DSA + LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/devviratcse?theme=dark&font=Baloo&radius=20" />
+  <img src="https://leetcard.jacoblin.cool/devvirat?theme=dark&font=Baloo&radius=20" />
 </p>
 
 ---
@@ -79,7 +79,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devviratt&show_icons=true&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Devviratt&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
@@ -91,9 +91,8 @@
 ## 🏅 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Devviratt&theme=darkhub&no-frame=true&margin-w=8"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devviratt&theme=github_dark" />
 </p>
-
 ---
 
 ## 🐍 Rainbow Contribution Snake
@@ -107,8 +106,8 @@
 ## 🎮 Anime + Coding Vibes
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/238200437-de4b8c2e-3d6c-4c87-a89c-7f8e9c5b90a2.gif" width="45%"/>
-  <img src="https://user-images.githubusercontent.com/74038190/238200404-7f87bda1-7c4d-4b8c-9bb0-6a5e2b3d0d4b.gif" width="45%"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" />
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="45%" />
 </p>
 
 ---
