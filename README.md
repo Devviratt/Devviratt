@@ -82,10 +82,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Devviratt&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devviratt&layout=compact&theme=dark&hide_border=true"/>
-</p>
-
 ---
 
 ## 🏅 GitHub Achievements
