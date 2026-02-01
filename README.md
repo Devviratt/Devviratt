@@ -4,27 +4,27 @@
 <h3 align="center">BTech CSE | Software & Web Developer | Placement Focused</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=22d3ee&size=22&center=true&vCenter=true&width=700&lines=Preparing+for+Software+Placements;DSA+%7C+Web+Development+%7C+Projects;Consistency+%2B+Discipline+%3D+Success" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=22d3ee&size=22&center=true&vCenter=true&width=750&lines=Future+Software+Engineer;DSA+%7C+Web+Development+%7C+Projects;Consistency+%2B+Discipline+%3D+Success" />
 </p>
 
 ---
 
 ## 🧊 Profile Card
-<img src="https://media.giphy.com/media/8vQSQ3cNXuDGo/giphy.gif" width="40%" />
+
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━━━
+  <img src="https://media.giphy.com/media/8vQSQ3cNXuDGo/giphy.gif" width="260"/>
 </p>
 
 <p align="center">
-🎓 <b>BTech CSE</b> – Dayananda Sagar University<br/>
-🏢 <b>Infosys Industry Trained</b><br/>
-🧠 <b>Focus:</b> DSA + Core CS<br/>
-💻 <b>Web Development Projects</b><br/>
-🏋️ <b>Gym + Code Discipline</b>
+  <b>🎓 BTech CSE</b> – Dayananda Sagar University<br/>
+  <b>🏢 Infosys Industry Trained</b><br/>
+  <b>🧠 Focus:</b> DSA + Core CS (OS, DBMS, CN, COA)<br/>
+  <b>💻 Web Development</b> (Real Projects)<br/>
+  <b>🏋️ Discipline:</b> Gym + Code
 </p>
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━━━
+  <i>“Silent grind, dangerous results.”</i>
 </p>
 
 ---
@@ -32,10 +32,10 @@
 ## 💼 Placement Focus
 
 <p align="center">
-✔ DSA (C++ / Java)<br/>
-✔ Core CS: OS, DBMS, CN, COA<br/>
-✔ Clean GitHub with real projects<br/>
-✔ Resume + Recruiter friendly profile<br/>
+✔ Strong in DSA (C++ / Java)<br/>
+✔ Core CS fundamentals clear<br/>
+✔ Clean GitHub with meaningful projects<br/>
+✔ Resume + recruiter-friendly profile<br/>
 ✔ Consistent learner mindset
 </p>
 
@@ -44,7 +44,7 @@
 ## 🧠 DSA + LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/devviratcse?theme=dark&font=Baloo&radius=20&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/devviratcse?theme=dark&font=Baloo&radius=12&ext=contest" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 <p align="center">
 🥇 Infosys Training Completion<br/>
 🚀 Academic & Personal Projects<br/>
-📈 SEO on live websites<br/>
+📈 SEO applied on live websites<br/>
 🔥 Consistent GitHub contributor<br/>
 💡 Continuous self-improvement
 </p>
@@ -75,12 +75,12 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="38"/>
 </p>
 
 ---
@@ -109,20 +109,21 @@
 
 ---
 
-## 🎮 Anime + Coding Vibes
+## 🔥 Motivation Zone
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RfEbMBTPQ7MOY/giphy.gif" width="40%" />
-  <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="40%" />
+  <img src="https://media.giphy.com/media/RfEbMBTPQ7MOY/giphy.gif" width="280"/>
 </p>
 
 <p align="center">
-  🌀 <b>Naruto Uzumaki</b> • ⚡ <b>Gojo Satoru</b>
+  🌀 <b>Naruto Uzumaki</b><br/>
+  <i>“Hard work beats talent when talent doesn’t work hard.”</i>
 </p>
+
 ---
 
 ## 🌐 Connect With Me
-<img src="https://media.giphy.com/media/12XTNObsY1pWQU/giphy.gif" width="40%" />
+
 <p align="center">
   <a href="https://devvirat.bio">Portfolio</a> •
   <a href="https://www.linkedin.com/in/dev-virat-8163a5286/">LinkedIn</a> •
@@ -135,5 +136,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Devviratt&style=flat-square&color=brightgreen"/>
 </p>
-<img src="https://media.giphy.com/media/l0HlQ7LRal3q2bE4Y/giphy.gif" width="40%" />
+
 <h3 align="center">🚀 Future SDE | One Commit at a Time</h3>
