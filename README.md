@@ -9,55 +9,65 @@
 
 ---
 
-## 🧊 Glass Profile Card
-
+## 🧊 Profile Card
+<img src="https://media.giphy.com/media/8vQSQ3cNXuDGo/giphy.gif" width="40%" />
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" height="160"/>
+━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
-- 🎓 **BTech CSE** – Dayananda Sagar University  
-- 🏢 **Infosys Industry Trained**  
-- 🧠 **Focus:** DSA + Core CS  
-- 💻 **Web Development Projects**  
-- 🏋️ **Gym + Code Discipline**
+<p align="center">
+🎓 <b>BTech CSE</b> – Dayananda Sagar University<br/>
+🏢 <b>Infosys Industry Trained</b><br/>
+🧠 <b>Focus:</b> DSA + Core CS<br/>
+💻 <b>Web Development Projects</b><br/>
+🏋️ <b>Gym + Code Discipline</b>
+</p>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━
+</p>
 
 ---
 
 ## 💼 Placement Focus
 
-- ✔ **Data Structures & Algorithms** (C++ / Java)  
-- ✔ **Core Subjects:** OS, DBMS, CN, COA  
-- ✔ **Clean GitHub** with real projects  
-- ✔ **Resume & Recruiter friendly profile**  
-- ✔ **Consistent learner mindset**
+<p align="center">
+✔ DSA (C++ / Java)<br/>
+✔ Core CS: OS, DBMS, CN, COA<br/>
+✔ Clean GitHub with real projects<br/>
+✔ Resume + Recruiter friendly profile<br/>
+✔ Consistent learner mindset
+</p>
 
 ---
 
 ## 🧠 DSA + LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/devvirat?theme=dark&font=Baloo&radius=20" />
+  <img src="https://leetcard.jacoblin.cool/devviratcse?theme=dark&font=Baloo&radius=20&ext=contest" />
 </p>
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🏆 Achievements
 
-- 🥇 Infosys Training Completion  
-- 🚀 Multiple Academic & Personal Projects  
-- 📈 Applied SEO on live websites  
-- 🔥 Consistent GitHub contributor  
-- 💡 Continuous self-improvement  
+<p align="center">
+🥇 Infosys Training Completion<br/>
+🚀 Academic & Personal Projects<br/>
+📈 SEO on live websites<br/>
+🔥 Consistent GitHub contributor<br/>
+💡 Continuous self-improvement
+</p>
 
 ---
 
 ## 🎖 Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BTech-CSE-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Diploma-CSE-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Infosys-Trained-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Placement-Ready-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BTech-CSE-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Diploma-CSE-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Infosys-Trained-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Placement-Ready-purple?style=flat-square"/>
 </p>
 
 ---
@@ -65,13 +75,12 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40"/>
 </p>
 
 ---
@@ -79,19 +88,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devviratt&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Devviratt&show_icons=true&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🏅 GitHub Achievements
+## 🏅 GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devviratt&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devviratt&theme=github_dark"/>
 </p>
+
 ---
 
-## 🐍 Rainbow Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Devviratt/Devviratt/output/snake.svg"/>
@@ -102,33 +112,28 @@
 ## 🎮 Anime + Coding Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" />
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="45%" />
+  <img src="https://media.giphy.com/media/RfEbMBTPQ7MOY/giphy.gif" width="40%" />
+  <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="40%" />
 </p>
 
+<p align="center">
+  🌀 <b>Naruto Uzumaki</b> • ⚡ <b>Gojo Satoru</b>
+</p>
 ---
 
 ## 🌐 Connect With Me
-
+<img src="https://media.giphy.com/media/12XTNObsY1pWQU/giphy.gif" width="40%" />
 <p align="center">
-  <a href="https://devvirat.bio">
-    <img src="https://img.shields.io/badge/Portfolio-devvirat.bio-black?style=for-the-badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dev-virat-8163a5286/">
-    <img src="https://img.shields.io/badge/LinkedIn-Dev_Virat-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://www.instagram.com/dev_virat_/">
-    <img src="https://img.shields.io/badge/Instagram-dev__virat__-E4405F?style=for-the-badge&logo=instagram"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/devviratcse">
-    <img src="https://img.shields.io/badge/HackerRank-devviratcse-2EC866?style=for-the-badge&logo=hackerrank"/>
-  </a>
+  <a href="https://devvirat.bio">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/dev-virat-8163a5286/">LinkedIn</a> •
+  <a href="https://www.instagram.com/dev_virat_/">Instagram</a> •
+  <a href="https://www.hackerrank.com/profile/devviratcse">HackerRank</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devviratt&style=for-the-badge&color=brightgreen"/>
+  <img src="https://komarev.com/ghpvc/?username=Devviratt&style=flat-square&color=brightgreen"/>
 </p>
-
+<img src="https://media.giphy.com/media/l0HlQ7LRal3q2bE4Y/giphy.gif" width="40%" />
 <h3 align="center">🚀 Future SDE | One Commit at a Time</h3>
