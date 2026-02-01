@@ -1,131 +1,120 @@
-<!-- ================= SHADOW MONARCH BANNER ================= -->
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" />
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4ZnBrdnF5Zm44ZnBrdnF5Zm44ZnBrdnF5Zm44ZnBrdnF5Zm44ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NtnT3U34Yp2gN5ygg0/giphy.gif" width="100%" height="350px" style="object-fit: cover; border-radius: 15px; border: 3px solid #3b82f6; box-shadow: 0 0 30px #3b82f6;" alt="Solo Leveling Header" />
+</div>
 
-<h1 align="center">🖤 DEV VIRAT</h1>
-<h3 align="center">BTech CSE • Software Developer • Future SDE</h3>
+<div align="center" style="margin-top: 25px; background-color: #0d1117; padding: 10px; border: 2px solid #1f6feb; border-radius: 10px;">
+  <h2 style="color: #58a6ff; margin-bottom: -10px;">[ SYSTEM NOTIFICATION ]</h2>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&weight=600&size=38&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=PLAYER:+DEV+VIRAT;CLASS:+SHADOW+DEVELOPER;STATUS:+LEVELING+UP...;WELCOME+TO+THE+DUNGEON" alt="System Glitch Text" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7F1D1D&size=24&center=true&vCenter=true&width=850&lines=Solo+Leveling:+Developer+Arc;From+Weakest+to+Strongest;DSA+%7C+Projects+%7C+Discipline;Arise." />
-</p>
+<br/>
 
----
+<div align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NxeGZ4Zzl5am14Z3lxZ3l6Z3l6Z3l6Z3l6Z3l6Z3l6Z3l6Z3l6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CKZDt7xYmUHWx1RYs0/giphy.gif" width="100%" height="120px" style="object-fit: cover; opacity: 0.7; border-radius: 10px;" alt="Dungeon Divider"/>
+    <h2 style="color: #58a6ff; background-color: #0d1117; display: inline-block; padding: 10px 20px; border-radius: 10px; border: 2px solid #1f6feb; margin-top: -60px; position: relative;">🗡️ PLAYER STATUS WINDOW</h2>
+</div>
 
-## 🗡️ ARC 1 — THE WEAKEST HUNTER
+<table align="center" border="0" bgcolor="#0D1117" width="100%" style="border-collapse: collapse; border: 2px solid #1f6feb;">
+  <tr>
+    <td width="35%" align="center" style="padding: 15px; border-right: 2px solid #1f6feb;">
+      <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="100%" style="border-radius: 10px; box-shadow: 0 0 20px #3b82f6;" alt="Jin Woo Combat Ready" />
+    </td>
+    <td width="65%" style="padding: 25px; color: #c9d1d9; font-family: monospace;">
+      <h3 style="color: #58a6ff; border-bottom: 2px solid #1f6feb;">> CHARACTER INFORMATION</h3>
+      <ul style="list-style-type: square;">
+        <li><b>👤 Player Name:</b> Dev Virat</li>
+        <li><b>🆙 Current Rank:</b> Infosys Certified Developer (BTech CSE)</li>
+        <li><b>🏛️ Guild (University):</b> Dayananda Sagar University</li>
+        <li><b>💀 Active Skill:</b> Full Stack Development & DSA</li>
+        <li><b>📜 Main Quest:</b> Hunting for Top Product-Based Company Placements</li>
+      </ul>
+      <br/>
+      <p style="border-left: 4px solid #58a6ff; padding-left: 10px;">
+        <i>"I alone level up. The code that doesn't kill me makes me stronger."</i>
+      </p>
+      <br/>
+      <div align="left">
+        <a href="https://www.linkedin.com/in/dev-virat-8163a5286/">
+          <img src="https://img.shields.io/badge/GUILD_INVITE_(LinkedIn)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="https://devvirat.bio">
+          <img src="https://img.shields.io/badge/VIEW_INVENTORY_(Portfolio)-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26xBs0xYtGq2q7C1G/giphy.gif" width="55%" />
-</p>
+<br/><br/>
 
-<p align="center">
-🎓 <b>BTech CSE</b> – Dayananda Sagar University<br/>
-🏫 Diploma in Computer Science<br/>
-🏢 Infosys Industry Trained<br/>
-💀 Started as a beginner, refused to stay weak
-</p>
+<div align="center">
+  <h2>⚔️ PLAYER'S ARSENAL (ACTIVE SKILLS)</h2>
+  <p><i>"Weapons acquired through countless dungeon runs."</i></p>
+</div>
 
-<p align="center"><i>“I’m not weak anymore.”</i></p>
+<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 15px; border: 2px solid #1f6feb;">
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,html,css,js,react,nodejs,php,mysql,git,github,vscode,linux,postman&perline=8&theme=dark" />
+</div>
 
----
+<br/><br/>
 
-## ⚔️ ARC 2 — SYSTEM AWAKENING (PLACEMENT MODE)
+<div align="center">
+    <img src="https://media.giphy.com/media/nyNS6Cfrnkdj2/giphy.gif" width="100%" height="150px" style="object-fit: cover; opacity: 0.8; border-radius: 10px;" alt="Shadow Army Divider"/>
+    <h2 style="color: #58a6ff; background-color: #0d1117; display: inline-block; padding: 10px 20px; border-radius: 10px; border: 2px solid #1f6feb; margin-top: -75px; position: relative;">📊 DUNGEON CLEARANCE STATS</h2>
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="55%" />
-</p>
+<div align="center">
+  <br/>
+  <table align="center" border="0" style="border: none;">
+    <tr>
+      <td style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Devviratt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff" height="170" alt="GitHub Stats" />
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devviratt&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=3b82f6&currStreakNum=ffffff" height="170" alt="Streak Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-⚔️ <b>Primary Weapon:</b> DSA (C++ / Java)<br/>
-📚 <b>Core Subjects:</b> OS • DBMS • CN • COA<br/>
-📂 Real GitHub projects (no copy-paste)<br/>
-📄 Resume + Recruiter Ready<br/>
-🔥 Daily grind. No excuses.
-</p>
+<br/>
 
----
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/devviratcse?theme=tokyonight&font=Fira+Code&ext=contest" width="85%" style="box-shadow: 0 0 20px #3b82f6; border-radius: 10px;" />
+</div>
 
-## 🧠 ARC 3 — TRAINING STATS (SOLO LEVELING)
+<br/>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/devviratcse?theme=dark&font=Baloo&radius=20&ext=contest" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devviratt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff" height="140" alt="Top Languages" />
+</div>
 
-<p align="center">
-<i>Strength increases with every solved problem.</i>
-</p>
+<br/><br/>
 
----
+<div align="center" style="border-top: 2px solid #1f6feb; padding-top: 20px;">
+  <h2>🧟‍♂️ SKILL ACTIVATED: "ARISE"</h2>
+  <p><i>(Summoning the contribution graph shadow army)</i></p>
+  <img src="https://raw.githubusercontent.com/Devviratt/Devviratt/output/snake.svg" width="100%" alt="Shadow Snake Animation" />
+</div>
 
-## 🏆 ARC 4 — CLEARED DUNGEONS (ACHIEVEMENTS)
+<br/><br/>
 
-<p align="center">
-🥇 Infosys Training Completion<br/>
-🚀 Academic & Personal Projects Completed<br/>
-📈 SEO applied on live websites<br/>
-🔥 Consistent GitHub Contributions<br/>
-💡 Relentless self-improvement
-</p>
-
----
-
-## 🛠️ ARC 5 — WEAPONS & SKILLS
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="44"/>
-</p>
-
----
-
-## 📊 ARC 6 — STATUS WINDOW (GITHUB)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devviratt&show_icons=true&theme=dark&hide_border=true"/>
-</p>
-
----
-
-## 🐍 ARC 7 — SHADOW ARMY (CONTRIBUTIONS)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Devviratt/Devviratt/output/snake.svg"/>
-</p>
-
-<p align="center">
-<i>Each contribution becomes a shadow soldier.</i>
-</p>
-
----
-
-## 👑 ARC 8 — THE SHADOW MONARCH
-
-<p align="center">
-  <img src="https://media.giphy.com/media/1xVbRS6j52YSzp9P7N/giphy.gif" width="55%" />
-</p>
-
-<p align="center">
-🖤 <b>Title:</b> Shadow Monarch<br/>
-🔥 <b>Mindset:</b> Discipline > Motivation<br/>
-⚔️ <b>Goal:</b> Crack Placements & Become SDE
-</p>
-
----
-
-## 🌐 FINAL ARC — CONTACT THE MONARCH
-
-<p align="center">
-  <a href="https://devvirat.bio">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/dev-virat-8163a5286/">LinkedIn</a> •
-  <a href="https://www.instagram.com/dev_virat_/">Instagram</a> •
-  <a href="https://www.hackerrank.com/profile/devviratcse">HackerRank</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devviratt&style=flat-square&color=7F1D1D"/>
-</p>
-
-<h2 align="center">🖤 ARISE.</h2>
+<div align="center" style="position: relative;">
+  <img src="https://media.giphy.com/media/4lu5FuhtrbaO4/giphy.gif" width="100%" height="250px" style="object-fit: cover; border-radius: 15px; border-top: 3px solid #3b82f6;" alt="Shadow Monarch Throne"/>
+  
+  <div style="position: absolute; bottom: 20px; left: 50%; transform: translateX(-50%); background-color: rgba(13, 17, 23, 0.9); padding: 20px; border-radius: 15px; border: 2px solid #1f6feb; width: 80%;">
+    <h3 style="color: #ffffff; margin: 0;">JOIN THE HUNTING PARTY</h3>
+    <p style="color: #58a6ff;">Ready to clear some S-Rank dungeons together?</p>
+    <p>
+      <a href="https://www.instagram.com/dev_virat_/">
+        <img src="https://img.shields.io/badge/SEND_MESSAGE_(Instagram)-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      </a>
+      <a href="https://www.hackerrank.com/profile/devviratcse">
+        <img src="https://img.shields.io/badge/VIEW_RANKING_(HackerRank)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+      </a>
+    </p>
+    <p style="color: #8b949e; font-size: 12px;"><i>SYSTEM STATUS: ONLINE. SHADOWS ARE WATCHING.</i></p>
+  </div>
+</div>
