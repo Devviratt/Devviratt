@@ -4,46 +4,44 @@
 <h3 align="center">BTech CSE • Software & Web Developer • Placement Focused</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F97316&size=22&center=true&vCenter=true&width=750&lines=Believe+it!+Code+it!;DSA+%7C+Web+Development+%7C+Projects;Consistency+is+my+Superpower" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=8B5CF6&size=22&center=true&vCenter=true&width=750&lines=Domain+Expansion:+Coding;DSA+%7C+Web+Development+%7C+Projects;Consistent+Grind+%3D+Strongest+Sorcerer" />
 </p>
 
 ---
 
-## 🌀 Shinobi Profile (About Me)
+## 🌀 Sorcerer Profile
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RfEbMBTPQ7MOY/giphy.gif" width="45%" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="45%" />
 </p>
 
 <p align="center">
 🎓 <b>BTech CSE</b> – Dayananda Sagar University<br/>
 🏢 <b>Infosys Industry Trained</b><br/>
-🧠 <b>Training Arc:</b> DSA + Core CS<br/>
-💻 <b>Jutsu:</b> Web Development Projects<br/>
-🏋️ <b>Discipline:</b> Gym + Code
+🧠 <b>Cursed Technique:</b> DSA + Core CS<br/>
+💻 <b>Ability:</b> Web Development Projects<br/>
+🏋️ <b>Training:</b> Discipline + Consistency
 </p>
-
-<p align="center"><i>"Hard work beats talent when talent doesn't work hard."</i></p>
 
 ---
 
-## 🩸 Dark Side Focus (Toji Mode)
+## ⚔️ Toji Mode – Placement Focus
 
 <p align="center">
   <img src="https://media.giphy.com/media/8vQSQ3cNXuDGo/giphy.gif" width="45%" />
 </p>
 
 <p align="center">
-⚔️ <b>DSA</b> in C++ / Java<br/>
-📚 <b>Core CS:</b> OS • DBMS • CN • COA<br/>
-📂 Real GitHub Projects (no fake stuff)<br/>
-📄 Resume + Recruiter Ready Profile<br/>
-🔥 Silent grind, consistent growth
+⚔️ DSA in <b>C++ / Java</b><br/>
+📚 Core CS: <b>OS • DBMS • CN • COA</b><br/>
+📂 Real GitHub projects only<br/>
+📄 Resume + Recruiter Ready<br/>
+🔥 Silent grind. No excuses.
 </p>
 
 ---
 
-## 🧠 DSA Progress (LeetCode)
+## 🧠 Sorcerer Stats (LeetCode)
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/devviratcse?theme=dark&font=Baloo&radius=20&ext=contest" />
@@ -51,30 +49,30 @@
 
 ---
 
-## 🏆 Achievements Scroll
+## 🏆 Missions Completed
 
 <p align="center">
 🥇 Infosys Training Completed<br/>
 🚀 Academic + Personal Projects<br/>
 📈 SEO on Live Websites<br/>
-🔥 Daily GitHub Practice<br/>
-💡 Self-Improvement Mindset
+🔥 Daily GitHub Commits<br/>
+💡 Constant Self Upgrade
 </p>
 
 ---
 
-## 🎖 Shinobi Badges
+## 🎖 Cursed Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BTech-CSE-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Diploma-CSE-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Infosys-Trained-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Placement-Ready-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/BTech-CSE-7C3AED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Diploma-CSE-16A34A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Infosys-Trained-DC2626?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Placement-Ready-9333EA?style=flat-square"/>
 </p>
 
 ---
 
-## ⚙️ Weapons (Tech Stack)
+## ⚙️ Cursed Tools (Tech Stack)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
@@ -87,7 +85,7 @@
 
 ---
 
-## 📊 Battle Stats (GitHub)
+## 📊 Domain Expansion (GitHub Stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Devviratt&show_icons=true&theme=dark&hide_border=true"/>
@@ -95,7 +93,7 @@
 
 ---
 
-## 🐍 Chakra Flow (Contribution Snake)
+## 🐍 Cursed Energy Flow
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Devviratt/Devviratt/output/snake.svg"/>
@@ -103,20 +101,20 @@
 
 ---
 
-## 🎮 Anime Vibes
+## 👁️‍🗨️ Strongest Sorcerers
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RfEbMBTPQ7MOY/giphy.gif" width="40%" />
-  <img src="https://media.giphy.com/media/8vQSQ3cNXuDGo/giphy.gif" width="40%" />
+  <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="40%" />
+  <img src="https://media.giphy.com/media/l0HlQ7LRal3q2bE4Y/giphy.gif" width="40%" />
 </p>
 
 <p align="center">
-  🌀 <b>Naruto Uzumaki</b> • 🩸 <b>Toji Fushiguro</b>
+  🟣 <b>Gojo Satoru</b> • 🔥 <b>Sukuna</b>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Contact the Sorcerer
 
 <p align="center">
   <a href="https://devvirat.bio">Portfolio</a> •
@@ -128,7 +126,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devviratt&style=flat-square&color=orange"/>
+  <img src="https://komarev.com/ghpvc/?username=Devviratt&style=flat-square&color=7C3AED"/>
 </p>
 
-<h3 align="center">🔥 Future SDE • Ninja Way • One Commit at a Time</h3>
+<h3 align="center">⚔️ Future SDE • Domain Expansion: Career</h3>
