@@ -1,128 +1,107 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 
 <h1 align="center">Dev Virat</h1>
-<h3 align="center">BTech CSE | Web Developer | Software Engineer (In Progress)</h3>
+<h3 align="center">BTech CSE | Software & Web Developer | Placement Focused</h3>
 
 <p align="center">
-  <a href="https://devvirat.bio">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/dev-virat-8163a5286/">LinkedIn</a> •
-  <a href="https://www.instagram.com/dev_virat_/">Instagram</a> •
-  <a href="https://www.hackerrank.com/profile/devviratcse">HackerRank</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devviratt&style=for-the-badge&color=green"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=22d3ee&size=22&center=true&vCenter=true&width=700&lines=Preparing+for+Software+Placements;DSA+%7C+Web+Development+%7C+Projects;Consistency+%2B+Discipline+%3D+Success" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧊 Glass Profile Card
 
-🎓 **BTech Computer Science & Engineering student**  
-🎓 Diploma in **Computer Science & Engineering**  
-🏢 **Infosys Training Experience**  
-💻 Strong foundation in **Web Development & Programming**  
-📈 Interested in **SEO, Digital Marketing & Growth**  
-🏋️ Discipline-driven: **Code + Gym + Consistency**
+```diff
++ 🎓 BTech CSE @ Dayananda Sagar University
++ 🏢 Infosys Trained
++ 🧠 DSA + Core CS Focus
++ 💻 Web Development Projects
++ 🏋️ Gym + Code Discipline
 
-💬 *I believe skills + consistency beat talent.*
+💼 Placement Focus
+	•	✔ Data Structures & Algorithms (C++ / Java)
+	•	✔ Core Subjects: OS, DBMS, CN, COA
+	•	✔ Clean GitHub with real projects
+	•	✔ Resume + Recruiter friendly profile
+	•	✔ Consistent learner mindset
 
----
-
-## 🧠 Skills & Technologies
-
-### 💻 Programming & Web
-- HTML5, CSS3, JavaScript  
-- PHP  
-- C, C++  
-- Java (Basics)
-
-### 🛠 Tools & Platforms
-- Git & GitHub  
-- Canva  
-- VS Code  
-
----
-
-## 🏆 Awards & Achievements
-
-🏅 Infosys Training Certification  
-🏅 Completed Diploma in CSE  
-🏅 Active Open-Source Learner  
-🏅 Built Multiple Web Projects  
-🏅 Strong Academic + Practical Balance  
-
----
-
-## 📜 Certifications
-
-- Infosys Training Program  
-- Web Development Fundamentals  
-- Programming in C & C++  
-
----
-
-## 📊 GitHub Statistics
-
+🧠 DSA + LeetCode Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devviratt&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"/>
+  <img src="https://leetcard.jacoblin.cool/devviratcse?theme=dark&font=Baloo&radius=20" />
 </p>
 
+🏆 Achievements & Highlights
+	•	🥇 Infosys Training Completion
+	•	🚀 Multiple Academic & Personal Projects
+	•	📈 Applied SEO on live websites
+	•	🔥 Consistent GitHub contributor
+	•	💡 Continuous self-improvement
+
+🎖 Badges
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devviratt&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"/>
+  <img src="https://img.shields.io/badge/BTech-CSE-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Diploma-CSE-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Infosys-Trained-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Placement-Ready-purple?style=for-the-badge"/>
 </p>
 
----
-
-## 🔥 GitHub Contribution Streak
-
+🛠 Tech Stack
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Devviratt&theme=dark&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="42"/>
 </p>
 
----
+📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devviratt&show_icons=true&theme=dark&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devviratt&layout=compact&theme=dark&hide_border=true"/>
+</p>
 
-## 🐍 Contribution Snake
+🏅 GitHub Achievements
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Devviratt&theme=darkhub&no-frame=true&margin-w=8"/>
+</p>
+
+🐍 Rainbow Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Devviratt/Devviratt/output/snake.svg"/>
 </p>
 
----
-
-## 🎖 Badges
+🎮 Anime + Coding Vibes
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web%20Developer-HTML%20%7C%20CSS%20%7C%20JS-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Programmer-C%20%7C%20C++%20%7C%20Java-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Learner-orange?style=for-the-badge"/>
+  <img src="https://user-images.githubusercontent.com/74038190/238200437-de4b8c2e-3d6c-4c87-a89c-7f8e9c5b90a2.gif" width="45%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/238200404-7f87bda1-7c4d-4b8c-9bb0-6a5e2b3d0d4b.gif" width="45%"/>
 </p>
 
----
-
-## 🌐 Connect With Me
-
+🌐 Connect With Me
 <p align="center">
+  <a href="https://devvirat.bio">
+    <img src="https://img.shields.io/badge/Portfolio-devvirat.bio-black?style=for-the-badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/dev-virat-8163a5286/">
-    <img src="https://img.shields.io/badge/LinkedIn-Dev_Virat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Dev_Virat-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://www.instagram.com/dev_virat_/">
-    <img src="https://img.shields.io/badge/Instagram-dev__virat__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-dev__virat__-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
   <a href="https://www.hackerrank.com/profile/devviratcse">
-    <img src="https://img.shields.io/badge/HackerRank-devviratcse-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HackerRank-devviratcse-2EC866?style=for-the-badge&logo=hackerrank"/>
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Devviratt&style=for-the-badge&color=brightgreen"/>
+</p>
 
-## 🚀 Goals
-
-- Crack a **Software Engineering role**
-- Build **real-world projects**
-- Contribute to **open source**
-- Grow as a **disciplined developer**
-
----
-
-<h3 align="center">🔥 Consistency creates results</h3>
+<h3 align="center">🚀 Future SDE | One Commit at a Time</h3>
+```
