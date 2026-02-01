@@ -1,88 +1,126 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/UgV8Y7bDxsZDCP01eo/giphy.gif" width="100%" height="300px" style="object-fit: cover; border-radius: 15px; border: 2px solid #7C3AED;" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&weight=500&size=40&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=DOMAIN+EXPANSION...;WELCOME+TO+MY+PROFILE" alt="Glitch Welcome" />
-
-  <img src="https://media.giphy.com/media/D559jHUfqP1P8y59pX/giphy.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Gojo Purple" />
-
-  <h1>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F43F5E&center=true&vCenter=true&width=500&lines=I'm+Dev+Virat;Future+SDE+%40+Top+Product+Company;Cursed+Technique:+Full+Stack;Special+Grade+Coder" alt="Typing SVG" />
-    </a>
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=DOMAIN+EXPANSION:+INFINITE+CODE;USER:+DEV+VIRAT;GRADE:+SPECIAL+GRADE+SORCERER;STATUS:+HUNTING+FOR+PLACEMENTS" />
   </h1>
+  
+  <p align="center">
+    <a href="https://devvirat.bio">
+        <img src="https://img.shields.io/badge/ENTER_MY_DOMAIN_(PORTFOLIO)-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
+  </p>
 </div>
 
 ---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/dev-virat-8163a5286/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://devvirat.bio">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/dev_virat_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/devviratcse">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-</div>
-
-<br/>
+<h2 align="center">🧬 ARC 1: CHARACTER STATS</h2>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=header"/>
-</div>
-
-<table align="center" border="0" bgcolor="#0D1117">
+<table align="center" style="border: none;">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="90%" style="border-radius: 15px; box-shadow: 0px 0px 20px #7C3AED;" />
+    <td align="center" width="40%">
+      <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 15px #7C3AED;" />
     </td>
-    <td width="50%" style="color: #c9d1d9; padding: 20px;">
-      <h2 style="color: #7C3AED;">⚡ The Sorcerer's Path</h2>
+    <td width="60%" style="padding-left: 20px;">
+      <h3 style="color: #A855F7;">⚡ Dev Virat (The Coder)</h3>
       <p>
-        Currently sharpening my cursed tools at <b>Dayananda Sagar University</b>. I don't just write code; I craft <i>Domains</i>.
+        <b>"Throughout the servers and the cloud, I alone am the honored one."</b>
       </p>
-      <br>
-      <ul>
-        <li>🔭 <b>Working on:</b> Full Stack Projects</li>
-        <li>🌱 <b>Learning:</b> Advanced DSA & System Design</li>
-        <li>🎖️ <b>Achievement:</b> Infosys Trained</li>
-        <li>💬 <b>Ask me about:</b> Java, C++, JJK Theories</li>
-      </ul>
+      <p>
+        Currently refining my <i>Cursed Technique</i> (Coding) at <b>Dayananda Sagar University</b>. I specialize in exorcising bugs and deploying domains (websites).
+      </p>
+      
+      <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=18&pause=1000&color=FFFFFF&width=400&lines=📍+Location:+Bengaluru,+India;🎓+Class:+BTech+CSE;🏢+Training:+Infosys+Certified;🎯+Focus:+DSA+%26+Full+Stack" />
+
+      <br/><br/>
+      
+      <a href="https://www.linkedin.com/in/dev-virat-8163a5286/">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+      </a>
+      <a href="https://www.instagram.com/dev_virat_/">
+        <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+      </a>
+      <a href="https://github.com/Devviratt">
+        <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
-</div>
-
----
-
-<h2 align="center">⚔️ CURSED TOOLS (Tech Stack)</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,php,mysql,git,vscode,github,linux&perline=6&theme=dark" />
-</div>
-
-<br/>
-
-<h2 align="center">📊 POWER LEVELS</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devviratt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=F43F5E" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devviratt&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=F43F5E" height="170" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devviratt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED" height="140" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/12mMq6aV5kYl0c/giphy.gif" width="100px" />
-  <p><i>"The only one who can beat me is me."</i></p>
+  <h2>⚔️ ARC 2: WEAPONRY (TECH STACK)</h2>
+  <img src="https://media.giphy.com/media/nyNS6Cfrnkdj2/giphy.gif" width="600px" style="border-radius: 10px; margin-bottom: 20px;" />
+  <p><i>"A sorcerer is only as strong as his tools."</i></p>
+  
+  <p>
+    <img src="https://skillicons.dev/icons?i=java,cpp,python,c&perline=6&theme=dark" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php&perline=6&theme=dark" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux&perline=6&theme=dark" />
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>📊 ARC 3: POWER SCALING</h2>
+  <img src="https://media.giphy.com/media/LsHkU75YJrrO/giphy.gif" width="100%" height="80px" style="object-fit: cover; opacity: 0.8;" />
+  <br/><br/>
+
+  <table align="center" style="border: none;">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Devviratt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=F43F5E" height="180" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devviratt&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=F43F5E" height="180" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <img src="https://leetcard.jacoblin.cool/devviratcse?theme=tokyonight&font=Fira+Code&ext=contest" width="85%" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devviratt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7" />
+</div>
+
+---
+
+<div align="center">
+  <h2>🐍 ARC 4: DIVINE DOGS (CONTRIBUTIONS)</h2>
+  <p><i>The snake that devours the commits.</i></p>
+  <img src="https://raw.githubusercontent.com/Devviratt/Devviratt/output/snake.svg" width="100%" alt="Snake Animation" />
+</div>
+
+---
+
+<div align="center">
+  <br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ0bHdvZDFsMXl5NG44YjJ6a3J6a3J6a3J6a3J6a3J6a3J6a3J6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHyYNY66f4wH6/giphy.gif" width="150px" />
+  
+  <h3>🤝 Let's Form a Pact</h3>
+  <p>If you want to collaborate on a Special Grade project or just discuss Anime theories:</p>
+  
+  <a href="https://www.linkedin.com/in/dev-virat-8163a5286/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Send_a_Crow_(Email)-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/devviratcse">
+    <img src="https://img.shields.io/badge/Compete_on_HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+
+  <br/><br/>
+  <p style="color: #666;"><i>Profile guarded by <b>Infinite Void</b>. Copying without starring is a crime.</i> ⭐</p>
 </div>
