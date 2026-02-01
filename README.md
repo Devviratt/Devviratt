@@ -1,91 +1,93 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 
 <h1 align="center">Dev Virat</h1>
-<h3 align="center">BTech CSE | Software & Web Developer | Placement Focused</h3>
+<h3 align="center">BTech CSE • Software & Web Developer • Placement Focused</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=22d3ee&size=22&center=true&vCenter=true&width=750&lines=Future+Software+Engineer;DSA+%7C+Web+Development+%7C+Projects;Consistency+%2B+Discipline+%3D+Success" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F97316&size=22&center=true&vCenter=true&width=750&lines=Believe+it!+Code+it!;DSA+%7C+Web+Development+%7C+Projects;Consistency+is+my+Superpower" />
 </p>
 
 ---
 
-## 🧊 Profile Card
+## 🌀 Shinobi Profile (About Me)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/8vQSQ3cNXuDGo/giphy.gif" width="260"/>
+  <img src="https://media.giphy.com/media/RfEbMBTPQ7MOY/giphy.gif" width="45%" />
 </p>
 
 <p align="center">
-  <b>🎓 BTech CSE</b> – Dayananda Sagar University<br/>
-  <b>🏢 Infosys Industry Trained</b><br/>
-  <b>🧠 Focus:</b> DSA + Core CS (OS, DBMS, CN, COA)<br/>
-  <b>💻 Web Development</b> (Real Projects)<br/>
-  <b>🏋️ Discipline:</b> Gym + Code
+🎓 <b>BTech CSE</b> – Dayananda Sagar University<br/>
+🏢 <b>Infosys Industry Trained</b><br/>
+🧠 <b>Training Arc:</b> DSA + Core CS<br/>
+💻 <b>Jutsu:</b> Web Development Projects<br/>
+🏋️ <b>Discipline:</b> Gym + Code
+</p>
+
+<p align="center"><i>"Hard work beats talent when talent doesn't work hard."</i></p>
+
+---
+
+## 🩸 Dark Side Focus (Toji Mode)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/8vQSQ3cNXuDGo/giphy.gif" width="45%" />
 </p>
 
 <p align="center">
-  <i>“Silent grind, dangerous results.”</i>
+⚔️ <b>DSA</b> in C++ / Java<br/>
+📚 <b>Core CS:</b> OS • DBMS • CN • COA<br/>
+📂 Real GitHub Projects (no fake stuff)<br/>
+📄 Resume + Recruiter Ready Profile<br/>
+🔥 Silent grind, consistent growth
 </p>
 
 ---
 
-## 💼 Placement Focus
+## 🧠 DSA Progress (LeetCode)
 
 <p align="center">
-✔ Strong in DSA (C++ / Java)<br/>
-✔ Core CS fundamentals clear<br/>
-✔ Clean GitHub with meaningful projects<br/>
-✔ Resume + recruiter-friendly profile<br/>
-✔ Consistent learner mindset
+  <img src="https://leetcard.jacoblin.cool/devviratcse?theme=dark&font=Baloo&radius=20&ext=contest" />
 </p>
 
 ---
 
-## 🧠 DSA + LeetCode Stats
+## 🏆 Achievements Scroll
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/devviratcse?theme=dark&font=Baloo&radius=12&ext=contest" />
+🥇 Infosys Training Completed<br/>
+🚀 Academic + Personal Projects<br/>
+📈 SEO on Live Websites<br/>
+🔥 Daily GitHub Practice<br/>
+💡 Self-Improvement Mindset
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🎖 Shinobi Badges
 
 <p align="center">
-🥇 Infosys Training Completion<br/>
-🚀 Academic & Personal Projects<br/>
-📈 SEO applied on live websites<br/>
-🔥 Consistent GitHub contributor<br/>
-💡 Continuous self-improvement
-</p>
-
----
-
-## 🎖 Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BTech-CSE-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/BTech-CSE-orange?style=flat-square"/>
   <img src="https://img.shields.io/badge/Diploma-CSE-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Infosys-Trained-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Infosys-Trained-red?style=flat-square"/>
   <img src="https://img.shields.io/badge/Placement-Ready-purple?style=flat-square"/>
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Weapons (Tech Stack)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Battle Stats (GitHub)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Devviratt&show_icons=true&theme=dark&hide_border=true"/>
@@ -93,15 +95,7 @@
 
 ---
 
-## 🏅 GitHub Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devviratt&theme=github_dark"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
+## 🐍 Chakra Flow (Contribution Snake)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Devviratt/Devviratt/output/snake.svg"/>
@@ -109,15 +103,15 @@
 
 ---
 
-## 🔥 Motivation Zone
+## 🎮 Anime Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RfEbMBTPQ7MOY/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/RfEbMBTPQ7MOY/giphy.gif" width="40%" />
+  <img src="https://media.giphy.com/media/8vQSQ3cNXuDGo/giphy.gif" width="40%" />
 </p>
 
 <p align="center">
-  🌀 <b>Naruto Uzumaki</b><br/>
-  <i>“Hard work beats talent when talent doesn’t work hard.”</i>
+  🌀 <b>Naruto Uzumaki</b> • 🩸 <b>Toji Fushiguro</b>
 </p>
 
 ---
@@ -134,7 +128,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devviratt&style=flat-square&color=brightgreen"/>
+  <img src="https://komarev.com/ghpvc/?username=Devviratt&style=flat-square&color=orange"/>
 </p>
 
-<h3 align="center">🚀 Future SDE | One Commit at a Time</h3>
+<h3 align="center">🔥 Future SDE • Ninja Way • One Commit at a Time</h3>
