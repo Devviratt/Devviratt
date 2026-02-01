@@ -35,7 +35,7 @@
         <li>🎯 <b>Mission:</b> Grinding for Top Product Based Placements</li>
         <li>🗣️ <b>Quote:</b> <i>"A real sorcerer sharpens their blade (code) every single day."</i></li>
       </ul>
-      
+      ---
       <p align="left">
         <a href="https://www.linkedin.com/in/dev-virat-8163a5286/">
           <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
