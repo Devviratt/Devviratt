@@ -44,7 +44,7 @@
 ## 🧠 DSA + LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/devviratcse?theme=dark&font=Baloo&radius=20&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/devvirat?theme=dark&font=Baloo&radius=20&ext=contest" />
 </p>
 
 ---
