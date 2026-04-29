@@ -41,14 +41,6 @@
 
 ---
 
-## 🧠 DSA + LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/devvirat?theme=dark&font=Baloo&radius=20&ext=contest" />
-</p>
-
----
-
 ## 🏆 Achievements
 
 <p align="center">
